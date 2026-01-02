@@ -129,7 +129,7 @@ ucebolunenlerintoplami = ucetambolunenler.reduce((toplam, sayi) => toplam + sayi
 
 // 3d çözümü
 
-/* kodlar buraya */
+besyuzdenkucuksayilar = sayilar.filter(sayi => sayi < 500);
 
 // 3e çözümü
 
